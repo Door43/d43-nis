@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nis:home|Door43 (nis)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nis|d43-nis repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nis/archive/master.zip|d43-nis.zip]]
+
+**Recent Changes**
+{{changes>ns = nis}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nis|Ethnologue data]]
+
